@@ -18,10 +18,10 @@
 7. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Core" style="text-decoration: underline;">Dev console</a> - triggers events when commands are enter in the given syntax<br>
 8. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Math" style="text-decoration: underline;">2D Physics system</a> - Discs, LineSegment2D, AABB2D, OBB2D, AABB3D, OBB3D, Plane3D, Sphere3D and ZCylinder3D Colliders<br>
 9. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Network" style="text-decoration: underline;">Network System</a> - supports TCP and UDP messaging to a single connection<br>
-10. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Network" style="text-decoration: underline;">Clocks and Timers</a> - for more explicit control over timing<br>
+10. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Core" style="text-decoration: underline;">Clocks and Timers</a> - for more explicit control over timing<br>
 ### Third party libraries: -<br>
 1. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/fmod" style="text-decoration: underline;">FMOD</a> - for audio features<br>
 2. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/tinyXML2" style="text-decoration: underline;">tinyXML2</a> - for parsing XML files<br>
-3. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/std_image" style="text-decoration: underline;">stb_image</a> - for loading image files<br>
+3. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/stb_image" style="text-decoration: underline;">stb_image</a> - for loading image files<br>
 4. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/ImGui" style="text-decoration: underline;">Dear ImGui</a> - for debug UI purposes and graph plotting<br>
 5. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/DXC" style="text-decoration: underline;">DirectX Compiler</a> - for supporting shader models 6.0+<br>
