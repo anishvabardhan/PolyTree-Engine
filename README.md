@@ -15,3 +15,5 @@ Personel engine made in C++ and supports both DirectX11 and DirectX12 APIs.
     1.3. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Renderer" style="text-decoration: underline;">2D sprite animation support</a>
  
     1.4. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Renderer" style="text-decoration: underline;">OBJ loader</a>
+
+2. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Audio" style="text-decoration: underline;">Audio system using FMOD</a>
