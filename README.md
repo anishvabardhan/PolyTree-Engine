@@ -26,3 +26,17 @@ Personel engine made in C++ and supports both DirectX11 and DirectX12 APIs.
     3.2. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Math" style="text-decoration: underline;">Splines</a> - includes Cubic Bezier curve, Cubic Hermite curve and Catmull Rom curve
 
     3.3. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Math" style="text-decoration: underline;">Raycast system</a> - includes raycasts vs Discs, LineSegment2D, AABB2D, OBB2D, AABB3D, OBB3D, Plane3D, Sphere3D and ZCylinder3D
+
+4. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Core" style="text-decoration: underline;">Job System</a> - for multi threading
+
+5. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Core" style="text-decoration: underline;">Input System</a> - supports Keyboard, mouse and upto 4 Xbox Controllers
+
+6. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Core" style="text-decoration: underline;">Event System</a> - basic event system
+
+7. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Core" style="text-decoration: underline;">Dev console</a> - triggers events when commands are enter in the given syntax
+
+8. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Math" style="text-decoration: underline;">2D Physics system</a> - Discs, LineSegment2D, AABB2D, OBB2D, AABB3D, OBB3D, Plane3D, Sphere3D and ZCylinder3D Colliders
+
+9. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Network" style="text-decoration: underline;">Network System</a> - supports TCP and UDP messaging to a single connection
+
+10. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Network" style="text-decoration: underline;">Clocks and Timers</a> - for more explicit control over timing
