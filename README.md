@@ -1,10 +1,10 @@
 # PolyTree-Engine
 
-Personel engine made in C++ and supports both DirectX11 and DirectX12 APIs.
-
 ![Gemini_Generated_Image_hxk14hxk14hxk14h (1) (2)](https://github.com/user-attachments/assets/92fdeee8-0419-4b50-b561-375c757fdfdf)
 
-## It features the following major subsystems: -
+## Personel engine made in C++ and supports both DirectX11 and DirectX12 APIs.
+
+### It features the following major subsystems: -
 
 1. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Renderer" style="text-decoration: underline;">2D and 3D Forward Rendering system that supports both DirectX11 and DirectX12 APIs</a> -
 
@@ -40,3 +40,15 @@ Personel engine made in C++ and supports both DirectX11 and DirectX12 APIs.
 9. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Network" style="text-decoration: underline;">Network System</a> - supports TCP and UDP messaging to a single connection
 
 10. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Network" style="text-decoration: underline;">Clocks and Timers</a> - for more explicit control over timing
+
+### Third party libraries: -
+
+1. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/fmod" style="text-decoration: underline;">FMOD</a> - for audio features
+
+2. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/tinyXML2" style="text-decoration: underline;">tinyXML2</a> - for parsing XML files
+
+3. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/std_image" style="text-decoration: underline;">stb_image</a> - for loading image files
+
+4. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/ImGui" style="text-decoration: underline;">Dear ImGui</a> - for debug UI purposes and graph plotting
+
+5. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/ThirdParty/DXC" style="text-decoration: underline;">DirectX Compiler</a> - for supporting shader models 6.0+
