@@ -7,6 +7,7 @@
     1.2. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Renderer" style="text-decoration: underline;">2D sprite sheets</a><br>
     1.3. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Renderer" style="text-decoration: underline;">2D sprite animation support</a><br>
     1.4. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Renderer" style="text-decoration: underline;">OBJ loader</a><br>
+    1.5. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Core" style="text-decoration: underline;">2D and 3D Debug visualization system</a><br>
 2. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Audio" style="text-decoration: underline;">Audio system using FMOD</a><br>
 3. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Math" style="text-decoration: underline;">Math libraries</a> - includes 2D, 3D & 4D vectors (vec2, vec3, vec4), Matrix4x4 and more<br>
     3.1. <a href="https://github.com/anishvabardhan/PolyTree-Engine/tree/main/Code/Engine/Math" style="text-decoration: underline;">Primitives</a> - includes 2D & 3D Axis-Aligned bounding box (AABB2, AABB3), 2D & 3D Oriented bounding box(OBB2, OBB3) and more<br>
